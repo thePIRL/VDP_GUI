@@ -1,0 +1,1 @@
+pyinstaller VDP_GUI.py --icon=pirl.ico --onefile --hidden-import=nibabel==5.2.0 --hidden-import=numpy==1.24.4 --hidden-import=openpyxl==3.1.2 --hidden-import=Pillow==10.2.0 --hidden-import=PySimpleGUI==4.60.5 --hidden-import=scipy==1.12.0
